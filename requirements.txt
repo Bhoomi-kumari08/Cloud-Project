@@ -3,7 +3,7 @@ uvicorn
 pandas
 numpy
 scikit-learn
-category-encoders
+category-encoders==2.9.0
 joblib
 streamlit
 requests
